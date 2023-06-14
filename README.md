@@ -1,4 +1,3 @@
-<!-- BLOG-POST-LIST:START -->
 ### Skills
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)]()
 [![ML](https://img.shields.io/badge/machine_learning-black?style=for-the-badge)]()
@@ -30,5 +29,3 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shi-i-chan&theme=transparent" />
   </a>
 </p>
-
-<!-- BLOG-POST-LIST:END -->
