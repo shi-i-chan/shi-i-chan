@@ -24,13 +24,13 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
 <p align="center">
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/shi-i-chan">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shi-i-chan&theme=transparent" />
   </a>
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/shi-i-chan">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shi-i-chan&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/shi-i-chan">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shi-i-chan&theme=transparent" />
   </a>
 </p>
