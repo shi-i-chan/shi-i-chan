@@ -21,7 +21,11 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 [![CLK](https://img.shields.io/badge/clockify-black?style=for-the-badge)]()
 
-![](https://komarev.com/ghpvc/?username=shi-i-chan)
+<p align="center">
+  <a href="https://github.com/wervlad">
+    <img src="https://komarev.com/ghpvc/?username=shi-i-chan&color=blue&style=flat)" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/shi-i-chan">
