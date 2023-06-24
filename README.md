@@ -22,12 +22,6 @@
 [![CLK](https://img.shields.io/badge/clockify-black?style=for-the-badge)]()
 
 <p align="center">
-  <a href="https://github.com/wervlad">
-    <img src="https://komarev.com/ghpvc/?username=shi-i-chan&color=blue&style=flat)" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/shi-i-chan">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shi-i-chan&theme=transparent" />
   </a>
@@ -36,5 +30,11 @@
   </a>
   <a href="https://github.com/shi-i-chan">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shi-i-chan&theme=transparent" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="">
+    <img src="https://komarev.com/ghpvc/?username=shi-i-chan&color=blue&style=flat)" />
   </a>
 </p>
