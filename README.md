@@ -33,6 +33,8 @@
   </a>
 </p>
 
+![image](https://github.com/shi-i-chan/shi-i-chan/blob/main/LOC.png)
+
 <p align="center">
   <a href="">
     <img src="https://komarev.com/ghpvc/?username=shi-i-chan&color=blue&style=flat)" />
