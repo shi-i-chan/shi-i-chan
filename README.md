@@ -23,6 +23,13 @@
 [![CLK](https://img.shields.io/badge/clockify-black?style=for-the-badge)]()
 
 <p align="center">
+  <a href="https://www.codewars.com/users/shi_chan">
+    <img src="https://www.codewars.com/users/shi_chan/badges/large"/>
+  </a>
+</p>
+
+
+<p align="center">
   <a href="https://github.com/shi-i-chan">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shi-i-chan&theme=transparent" />
   </a>
