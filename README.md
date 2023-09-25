@@ -4,6 +4,7 @@
 [![ML](https://img.shields.io/badge/machine_learning-black?style=for-the-badge)]()
 [![BT](https://img.shields.io/badge/Backtesting-black?style=for-the-badge)]()
 [![DL](https://img.shields.io/badge/deep_learning-black?style=for-the-badge)]()
+[![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge)]()
 [![Keras](https://img.shields.io/badge/Keras-black?style=for-the-badge&logo=keras&logoColor=red)]()
 [![BT](https://img.shields.io/badge/OOP-black?style=for-the-badge)]()
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)]()
