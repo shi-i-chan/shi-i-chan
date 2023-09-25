@@ -22,10 +22,12 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 [![CLK](https://img.shields.io/badge/clockify-black?style=for-the-badge)]()
 
-
 <p align="center">
-  <img src="https://www.codewars.com/users/shi_chan/badges/large">
+  <a href="https://www.codewars.com/users/shi_chan">
+    <img src="https://www.codewars.com/users/shi_chan/badges/large"/>
+  </a>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/shi-i-chan">
