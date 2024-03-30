@@ -19,7 +19,7 @@
 [![DL](https://img.shields.io/badge/deep_learning-%23d9ead3?style=for-the-badge)]()
 [![AT](https://img.shields.io/badge/algorithmic_trading-%23d9ead3?style=for-the-badge)]()
 [![BT](https://img.shields.io/badge/Backtesting-%23d9ead3?style=for-the-badge)]()
-[![ClickHouse](https://img.shields.io/badge/clichouse-%23d9ead3?style=for-the-badge)]()
+[![ClickHouse](https://img.shields.io/badge/ClickHouse-%23d9ead3?style=for-the-badge)]()
 [![Seaborn](https://img.shields.io/badge/seaborn-%23d9ead3?style=for-the-badge)]()
 ![Poetry](https://img.shields.io/badge/Poetry-%23d9ead3.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D)
 [![pre-commit](https://img.shields.io/badge/pre--commit-%23d9ead3?logo=pre-commit&logoColor=ffc107&style=for-the-badge)]()
