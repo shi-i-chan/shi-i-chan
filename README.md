@@ -25,6 +25,8 @@
 [![pre-commit](https://img.shields.io/badge/pre--commit-%23d9ead3?logo=pre-commit&logoColor=ffc107&style=for-the-badge)]()
 [![black](https://img.shields.io/badge/black-%23d9ead3.svg?style=for-the-badge)]()
 [![flake8](https://img.shields.io/badge/flake8-%23d9ead3.svg?style=for-the-badge)]()
+[![isort](https://img.shields.io/badge/isort-%23d9ead3.svg?style=for-the-badge)]()
+[![mypy](https://img.shields.io/badge/mypy-%23d9ead3.svg?style=for-the-badge)]()
 [![PyCharm](https://img.shields.io/badge/PyCharm-%23d9ead3.svg?&style=for-the-badge&logo=PyCharm&logoColor=yellow)]()
 [![Jupyter](https://img.shields.io/badge/Jupyter-%23d9ead3.svg?&style=for-the-badge&logo=Jupyter&logoColor=F37626)]()
 [![SublimeText](https://img.shields.io/badge/sublime_text-%23d9ead3.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)]()
