@@ -1,4 +1,3 @@
-### Skills
 [![Python](https://img.shields.io/badge/python-%23d9ead3?style=for-the-badge&logo=python&logoColor=3670A0)]()
 [![NumPy](https://img.shields.io/badge/numpy-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=3670A0)]()
 [![Pandas](https://img.shields.io/badge/pandas-%23d9ead3?style=for-the-badge&logo=pandas&logoColor=3670A0)]()
@@ -31,29 +30,3 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-%23d9ead3.svg?&style=for-the-badge&logo=Jupyter&logoColor=F37626)]()
 [![SublimeText](https://img.shields.io/badge/sublime_text-%23d9ead3.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)]()
 [![CLK](https://img.shields.io/badge/clockify-%23d9ead3?style=for-the-badge)]()
-
-
-<p align="center">
-  <a href="https://www.codewars.com/users/shi_chan">
-    <img src="https://www.codewars.com/users/shi_chan/badges/large"/>
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/shi-i-chan">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shi-i-chan&theme=transparent" />
-  </a>
-  <a href="https://github.com/shi-i-chan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shi-i-chan&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/shi-i-chan">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shi-i-chan&theme=transparent" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="">
-    <img src="https://komarev.com/ghpvc/?username=shi-i-chan&color=blue&style=flat)" />
-  </a>
-</p>
