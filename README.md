@@ -4,7 +4,6 @@
 [![DL](https://img.shields.io/badge/deep_learning-%23d9ead3?style=for-the-badge)]()
 [![AT](https://img.shields.io/badge/algorithmic_trading-%23d9ead3?style=for-the-badge)]()
 [![BT](https://img.shields.io/badge/Backtesting-%23d9ead3?style=for-the-badge)]()
-
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23d9ead3?style=for-the-badge&logo=scikit-learn)]()
 [![Tensorflow](https://img.shields.io/badge/TensorFlow-%23d9ead3.svg?style=for-the-badge&logo=TensorFlow&logoColor=orange)]()
 [![Tensorboard](https://img.shields.io/badge/tensorboard-%23d9ead3?style=for-the-badge)]()
@@ -22,7 +21,6 @@
 [![flake8](https://img.shields.io/badge/flake8-%23d9ead3.svg?style=for-the-badge)]()
 [![isort](https://img.shields.io/badge/isort-%23d9ead3.svg?style=for-the-badge)]()
 [![mypy](https://img.shields.io/badge/mypy-%23d9ead3.svg?style=for-the-badge)]()
-
 [![Docker](https://img.shields.io/badge/docker-%23d9ead3.svg?style=for-the-badge&logo=docker&logoColor=3670A0)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23d9ead3?style=for-the-badge&logo=postgresql&logoColor=0B3D8D)]()
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-%23d9ead3?style=for-the-badge&logo=clickhouse&logoColor=0B3D8D)
@@ -31,7 +29,6 @@
 ![Django](https://img.shields.io/badge/django-%23d9ead3.svg?style=for-the-badge&logo=django&logoColor=0B3D8D)
 ![HTML5](https://img.shields.io/badge/html5-%23d9ead3.svg?style=for-the-badge&logo=html5&logoColor=0B3D8D)
 ![CSS3](https://img.shields.io/badge/css3-%23d9ead3.svg?style=for-the-badge&logo=css3&logoColor=0B3D8D)
-
 [![Git](https://img.shields.io/badge/git-%23d9ead3?style=for-the-badge&logo=git&logoColor=3670A0)]()
 [![GitHub](https://img.shields.io/badge/github-%23d9ead3.svg?style=for-the-badge&logo=github&logoColor=3670A0)]()
 [![Jira](https://img.shields.io/badge/jira-%23d9ead3.svg?style=for-the-badge&logo=jira&logoColor=3670A0)]()
