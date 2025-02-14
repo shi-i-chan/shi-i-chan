@@ -26,6 +26,7 @@
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-%23d9ead3?style=for-the-badge&logo=clickhouse&logoColor=0B3D8D)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23d9ead3?style=for-the-badge&logo=fastapi&logoColor=0B3D8D)
 [![Alembic](https://img.shields.io/badge/Alebmic-%23d9ead3.svg?style=for-the-badge)]()
+[![pydantic](https://img.shields.io/badge/pydantic-%23d9ead3.svg?style=for-the-badge)]()
 ![Django](https://img.shields.io/badge/django-%23d9ead3.svg?style=for-the-badge&logo=django&logoColor=0B3D8D)
 ![HTML5](https://img.shields.io/badge/html5-%23d9ead3.svg?style=for-the-badge&logo=html5&logoColor=0B3D8D)
 ![CSS3](https://img.shields.io/badge/css3-%23d9ead3.svg?style=for-the-badge&logo=css3&logoColor=0B3D8D)
